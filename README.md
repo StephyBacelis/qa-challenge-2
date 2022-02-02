@@ -29,7 +29,6 @@ Parsed array (Output): ['qefa']
 <br>
 2. Run the code with the base example:
   
-- Uncomment main method in Main class.
 - Right click on Main class.
 - Hit the Run 'Main.main()' option.
 
