@@ -14,7 +14,7 @@ public class MainTest {
     }
 
     @Test
-    @DisplayName("Ensure text parsed only letters and throws them as lowercase.")
+    @DisplayName("Ensure text parsed are only letters and throws them as lowercase.")
     public void testParsedSuccessfully() {
         assertArrayEquals(
                 new String[] {"bcdefa","bcd", "b", "y", ""},
