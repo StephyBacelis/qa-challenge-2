@@ -1,5 +1,5 @@
 
-#Parse String
+<h1>Parse String </h1>
 
 This project parses String arrays.
 
@@ -27,7 +27,8 @@ Parsed array (Output): ['qefa']
 
 <br>
 <br>
-2. Run the code with the base example.
+2. Run the code with the base example:
+  
 - Uncomment main method in Main class.
 - Right click on Main class.
 - Hit the Run 'Main.main()' option.
