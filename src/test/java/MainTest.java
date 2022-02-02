@@ -30,7 +30,7 @@ public class MainTest {
 
     @Test
     @DisplayName("Validate null input handling.")
-    public void testNullOutput() {
+    public void testNullInput() {
         assertTrue(main.nextLetterString(null) != null);
     }
 }
