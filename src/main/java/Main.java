@@ -1,19 +1,3 @@
-/*
-
-let input = ['abcdez','a b c', 'a $ &'];
-let output = ['bcdefa','bcd', 'b'];
-
-Crear un metodo donde este metodo se pueda
-iterar cada elemento en el arreglo.
-Tomar el string y reemplazar la letra por la
-siguiente en su abecedario. ej: a - b
-Si hay una mayuscula cambiar a minuscula.
-Si hay un caracter especial no considerarlo.
--- Ver cuantas validaciones se puede agregar.
-
-araya@bitso.com
-*/
-
 public class Main {
 
     public String[] nextLetterString(String[] input) {
